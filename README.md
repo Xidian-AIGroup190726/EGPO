@@ -9,3 +9,10 @@
 
 - **PCS**  
   PCS (Pseudo Label Generation Code) is used to generate pseudo-labels. It produces pseudo-labels for training the student model based on the predictions from the teacher model.
+
+You can access the processed dataset directly via the following link.
+DFC22:https://drive.google.com/file/d/1FZoZiWW_19TWdWKUz1-Vn-IlTs0QWtfg/view?usp=sharing
+iSAID:https://drive.google.com/file/d/1yBlHpxuWs_X_02O5xAxTpo1tDWcGj6-x/view?usp=sharing
+MER:https://drive.google.com/file/d/1KN0PSoWlC4BPv5QAZdJKrhpvu9F9vdlm/view?usp=sharing
+Vaihingen:https://drive.google.com/file/d/11aOEO3-Ov3Wcg8o2nBA5GsGBqqRHbjRh/view?usp=sharing
+GID-15:https://drive.google.com/file/d/1CITO8Bxf8eG-6le6mZDshDgTyi9BO2ot/view?usp=sharing
